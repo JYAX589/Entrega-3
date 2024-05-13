@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuCargoController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuPrincipalController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuPromocionController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dto/CategoriaProductoDTO.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Producto.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dao/Conexion.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/FormularioEmpleadoController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/image/FormularioCliente.png</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuCompraController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dto/ClienteDTO.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Factura.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/utils/SuperKinalAlert.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dto/CargoDTO.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dto/FacturaDTO.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Promocion.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Distribuidor.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuEmpleadoController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/system/Main.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuDistribuidorController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuTicketSoporteController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/FormularioCompraController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dto/EmpleadoDTO.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuCategoriaProductoController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuProductoController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuFacturaController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dto/DistribuidorDTO.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/TicketSoporte.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/MenuClienteController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/dto/CompraDTO.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Cliente.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Cargo.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/FormularioCategoriaProductoController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Empleado.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/Compra.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/FormularioDistribuidorController.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/model/CategoriaProducto.java</file>
+            <file>file:/C:/Users/Yax/Documents/NetBeansProjects/SuperKinalYax/SuperKinalYax/src/org/josueyax/controller/FormularioClienteController.java</file>
+        </group>
+    </open-files>
+</project-private>
